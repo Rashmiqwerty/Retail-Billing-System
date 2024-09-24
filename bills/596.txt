@@ -1,0 +1,21 @@
+		**Welcome Customer**
+
+Bill Number: 596
+Customer Name:Rashmi
+Customer Phone Number:8967123462
+======================================================
+product			Quantity			Price
+======================================================
+Bath Soap:			4			80 Rs
+Face Cream:			5			250 Rs
+Oil:			2			240 Rs
+Sugar:			1			50 Rs
+Tea:			6			888 Rs
+Sprite:			4			120 Rs
+------------------------------------------------------
+Cosmetic Tax :				 Rs 39.6
+Grocery Tax :				 Rs 58.9
+Cold Drinks Tax :				 Rs 9.6
+
+Total Bill:				Rs1736.1
+------------------------------------------------------

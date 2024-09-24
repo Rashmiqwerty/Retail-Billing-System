@@ -1,0 +1,18 @@
+		**Welcome Customer**
+
+Bill Number: 649
+Customer Name:tash
+Customer Phone Number:654654654
+======================================================
+product			Quantity			Price
+======================================================
+Face Wash:			4			400 Rs
+Wheat:			5			400 Rs
+Maaza:			2			100 Rs
+------------------------------------------------------
+Cosmetic Tax :				 Rs 48.0
+Grocery Tax :				 Rs 20.0
+Cold Drinks Tax :				 Rs 8.0
+
+Total Bill:				Rs976.0
+------------------------------------------------------

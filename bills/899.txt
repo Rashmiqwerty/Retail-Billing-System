@@ -1,0 +1,23 @@
+		**Welcome Customer**
+
+Bill Number: 899
+Customer Name:Kalyani
+Customer Phone Number:9875182563
+======================================================
+product			Quantity			Price
+======================================================
+Bath Soap:			3			60 Rs
+Body Loction:			4			240 Rs
+Face Cream:			5			250 Rs
+Face Wash:			1			100 Rs
+Daal:			3			300 Rs
+Sugar:			3			150 Rs
+Pepsi:			5			100 Rs
+Coco Cola:			5			450 Rs
+------------------------------------------------------
+Cosmetic Tax :				 Rs 78.0
+Grocery Tax :				 Rs 22.5
+Cold Drinks Tax :				 Rs 44.0
+
+Total Bill:				Rs1794.5
+------------------------------------------------------
